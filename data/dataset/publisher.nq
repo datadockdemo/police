@@ -1,0 +1,5 @@
+﻿<http://datadock.io/datadockdemo/police/id/dataset/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <http://datadock.io/datadockdemo/police/metadata>.
+<http://datadock.io/datadockdemo/police/id/dataset/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "DataDock" <http://datadock.io/datadockdemo/police/metadata>.
+<http://datadock.io/datadockdemo/police/id/dataset/publisher> <http://xmlns.com/foaf/0.1/homepage> <https://datadock.io/> <http://datadock.io/datadockdemo/police/metadata>.
+<http://datadock.io/datadockdemo/police/id/dataset/publisher> <http://xmlns.com/foaf/0.1/mbox> "datadock.io@gmail.com" <http://datadock.io/datadockdemo/police/metadata>.
+<http://datadock.io/datadockdemo/police/id/dataset/publisher> <http://xmlns.com/foaf/0.1/name> "DataDock" <http://datadock.io/datadockdemo/police/metadata>.
