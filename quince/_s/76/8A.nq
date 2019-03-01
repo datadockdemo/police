@@ -1,0 +1,1 @@
+﻿<https://schema.org/gender> <http://www.w3.org/2000/01/rdf-schema#label> "Gender"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadockdemo/police/definitions>.

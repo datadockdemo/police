@@ -1,1 +1,3 @@
-﻿
+﻿<http://datadock.io/datadockdemo/police/id/resource/201809MetropolitanStopAndSearchcsv/row_10359> <http://datadock.io/datadockdemo/police/id/definition/date> "2018-09-27T17:34:00+00:00"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/datadockdemo/police/id/dataset/stopAndSearchMetropolitanPoliceSeptember2018>.
+<http://datadock.io/datadockdemo/police/id/resource/201809MetropolitanStopAndSearchcsv/row_10360> <http://datadock.io/datadockdemo/police/id/definition/date> "2018-09-27T17:34:00+00:00"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/datadockdemo/police/id/dataset/stopAndSearchMetropolitanPoliceSeptember2018>.
+<http://datadock.io/datadockdemo/police/id/resource/201809MetropolitanStopAndSearchcsv/row_9709> <http://datadock.io/datadockdemo/police/id/definition/date> "2018-09-25T22:58:00+00:00"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/datadockdemo/police/id/dataset/stopAndSearchMetropolitanPoliceSeptember2018>.
